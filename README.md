@@ -4,3 +4,4 @@
 # Game Catalog & Game Picker: https://github.com/Ionlylike1kindofcheese/Fase1-Javascript-Eindopdracht
 # Old Game Catalog: https://github.com/Ionlylike1kindofcheese/Fase1.Eindopdracht-GameCatalog
 # Character Catalog: https://github.com/Ionlylike1kindofcheese/Fase1-Backend5-Eindopdracht
+# Pokemon Battle Simulator: https://github.com/Ionlylike1kindofcheese/Pokemon-Battle-Simulator
